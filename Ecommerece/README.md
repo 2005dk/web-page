@@ -20,5 +20,5 @@ This is a basic e-commerce website built using HTML, CSS, and SCSS. The website 
 
 ## Creators
 
-- **Ansh**
-- **Bhoomi**
+- shruti
+- 
